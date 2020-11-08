@@ -37,4 +37,4 @@ function doCrazyStuff(num) {
     var result  = percentOf(squared, area);
 }
 
-doCrazyStuff(5);
+damnCalculator(5);
